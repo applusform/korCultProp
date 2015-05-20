@@ -7,7 +7,7 @@ Screen shot :
 ![Screen shot](http://applusform.github.io/korCultProp/screenshot3.png)
 
 ### 인증키 발급
-http://data.seoul.go.kr 에서 Open API 인증키를 발급 받아야 합니다 
+Open API를 사용하기 위해서는 http://data.seoul.go.kr 에서 본인의 인증키를 발급 받아야 합니다.
 
 #### APK 다운로드
 * [Release v1.0](https://github.com/applusform/korCultProp/releases/download/v1.0/io.github.applusform.korCultProp.apk)
